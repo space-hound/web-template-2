@@ -1,4 +1,4 @@
-# web-template-1
+# web-template-2
 Great repository names are short and memorable. Need inspiration? How about solid-octo-pancake?
 
 </br>
@@ -6,7 +6,7 @@ Great repository names are short and memorable. Need inspiration? How about soli
 ---
 
  ### code here
-  - [Looking for code?](https://github.com/space-hound/web-template-1)
+  - [Looking for code?](https://github.com/space-hound/web-template-2)
   
 ----
 
